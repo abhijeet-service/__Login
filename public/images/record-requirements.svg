@@ -1,0 +1,41 @@
+<svg width="820.16" height="780.81" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient y2="0" x2="0.499988" y1="1" x1="0.499988" id="07332201-7176-49c2-9908-6dc4a39c4716">
+   <stop stop-opacity="0.25" stop-color="gray" offset="0"/>
+   <stop stop-opacity="0.12" stop-color="gray" offset="0.54"/>
+   <stop stop-opacity="0.1" stop-color="gray" offset="1"/>
+  </linearGradient>
+  <linearGradient xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716" gradientTransform="translate(-63.92 7.85)" y2="130.75" x2="540.17" y1="180.2" x1="540.17" id="0ee1ab3f-7ba2-4205-9d4a-9606ad702253"/>
+  <linearGradient xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716" gradientTransform="translate(-84.51 124.6) rotate(-12.11)" y2="82.43" x2="540.17" y1="140.86" x1="540.17" id="abca9755-bed1-4a97-b027-7f02ee3ffa09"/>
+  <linearGradient xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" y2="127.12" x2="476.4" y1="710.53" x1="476.4" id="2632d424-e666-4ee4-9508-a494957e14ab"/>
+  <linearGradient xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" y2="106.68" x2="476.94" y1="156.13" x1="476.94" id="97571ef7-1c83-4e06-b701-c2e47e77dca3"/>
+  <linearGradient xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" y2="117.95" x2="666.86" y1="176.39" x1="666.86" id="7d32e13e-a0c7-49c4-af0e-066a2f8cb76e"/>
+ </defs>
+ <title>no data</title>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="782.81" width="822.16" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#e0e0e0" transform="rotate(-12.109999656677246 -271.22000122070324,62.72000122070301) " height="603.82" width="437.02" y="205.270001" x="46.279999"/>
+  <g id="svg_2" opacity="0.5">
+   <rect id="svg_3" fill="url(#07332201-7176-49c2-9908-6dc4a39c4716)" transform="rotate(-12.109999656677246 -271.22000122070324,62.72000122070301) " height="583.41" width="422.25" y="215.480001" x="53.669999"/>
+  </g>
+  <rect id="svg_4" fill="#fafafa" transform="rotate(-12.109999656677246 -270.79000854492193,62.58000183105472) " height="570.52" width="411.5" y="219.680002" x="59.019991"/>
+  <rect id="svg_5" fill="url(#0ee1ab3f-7ba2-4205-9d4a-9606ad702253)" transform="rotate(-12.109999656677246 -213.58000183105474,43.93000030517572) " height="49.45" width="204.14" y="182.53" x="160.599998"/>
+  <path id="svg_6" fill="url(#abca9755-bed1-4a97-b027-7f02ee3ffa09)" d="m271.01,32.31c-15.41,3.31 -25.16,18.78 -21.77,34.55s18.62,25.89 34,22.58s25.16,-18.78 21.77,-34.55s-18.59,-25.89 -34,-22.58zm9.67,45.1a16.86,16.86 0 1 1 12.56,-20a16.66,16.66 0 0 1 -12.56,20z"/>
+  <rect id="svg_7" fill="#670b4e" transform="rotate(-12.109999656677246 -212.9400024414063,43.720001220703125) " height="47.27" width="199.84" y="180.270001" x="162.719998"/>
+  <path id="svg_8" fill="#670b4e" d="m271.01,32.31a27.93,27.93 0 1 0 33.17,21.45a27.93,27.93 0 0 0 -33.17,-21.45zm9.24,43.1a16.12,16.12 0 1 1 12.38,-19.14a16.12,16.12 0 0 1 -12.38,19.14z"/>
+  <rect id="svg_9" fill="#e0e0e0" height="603.82" width="437.02" y="116.91" x="257.89"/>
+  <g id="svg_10" opacity="0.5">
+   <rect id="svg_11" fill="url(#2632d424-e666-4ee4-9508-a494957e14ab)" height="583.41" width="422.25" y="127.12" x="265.28"/>
+  </g>
+  <rect id="svg_12" fill="#fff" height="570.52" width="411.5" y="131.42" x="270.65"/>
+  <rect id="svg_13" fill="url(#97571ef7-1c83-4e06-b701-c2e47e77dca3)" height="49.45" width="204.14" y="106.68" x="374.87"/>
+  <path id="svg_14" fill="url(#7d32e13e-a0c7-49c4-af0e-066a2f8cb76e)" d="m476.94,58.41c-15.76,0 -28.54,13.08 -28.54,29.22s12.78,29.22 28.54,29.22s28.54,-13.08 28.54,-29.22s-12.78,-29.22 -28.54,-29.22zm0,46.08a16.86,16.86 0 1 1 16.46,-16.86a16.66,16.66 0 0 1 -16.46,16.78l0,0.08z"/>
+  <rect id="svg_15" fill="#670b4e" height="47.27" width="199.84" y="104.56" x="377.02"/>
+  <path id="svg_16" fill="#670b4e" d="m476.94,58.41a27.93,27.93 0 1 0 27.93,27.93a27.93,27.93 0 0 0 -27.93,-27.93zm0,44.05a16.12,16.12 0 1 1 16.14,-16.16a16.12,16.12 0 0 1 -16.14,16.11l0,0.05z"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_31" y="380.071667" x="325.079987" stroke-width="0" stroke="#000" fill="#000000">RECORD REQUIREMENTS</text>
+ </g>
+</svg>

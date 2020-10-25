@@ -1,0 +1,12 @@
+export { default as SignIn } from "./SignIn";
+export { default as Dashboard } from "./Dashboard";
+export { default as RequestInitiate } from "./RequestInitiate";
+export { default as MailSent } from "./MailSent";
+export { default as Agent } from "./Agent";
+export { default as AgentScheduleTable } from "./AgentScheduleTable";
+export { default as DIYOnboard } from "./DIYOnboard";
+export { default as VCIPCustomer } from "./VCIPCustomer";
+export { default as MailFailed } from "./MailFailed";
+export { default as BulkUpload } from "./BulkUpload";
+export { default as SubmitDocJob } from "./SubmitDocJob";
+export { default as NotFound } from "./NotFound";

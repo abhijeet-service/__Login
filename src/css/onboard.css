@@ -1,0 +1,79 @@
+.intRoot {
+  margin: 1%;
+  text-align: center;
+}
+/* .form-bg{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url('/images/form-collection.svg');
+    opacity: 0.5;
+} */
+.onboard-heading {
+  font-size: 22px !important;
+  font-weight: 500 !important;
+  color: #670b4e !important;
+  margin: 1% !important;
+}
+.message-heading-typo {
+  font-size: 18px !important;
+  padding: 1% !important;
+}
+.error-message {
+  color: #ff0000 !important;
+}
+.form-textField {
+  margin: 5px !important;
+  width: 20% !important;
+  margin-right: 2% !important;
+}
+.datePickerField {
+  margin: 5px !important;
+  margin-right: 2% !important;
+  width: 20% !important;
+}
+.onboardModal {
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 12% !important;
+  padding-right: 5% !important;
+  padding-left: 5% !important;
+  outline: none !important;
+  margin-top: 10% !important;
+  overflow-y: auto !important;
+}
+.heading-loader {
+  color: #670b4e !important;
+}
+.onboard-modal-div {
+  padding: 2% !important;
+}
+.successMessage {
+  color: #009900 !important;
+  font-size: 20px !important;
+}
+.failedMessage {
+  color: #ff0000 !important;
+  font-size: 18px !important;
+  padding-bottom: 2% !important;
+}
+.status-logo {
+  height: 20 !important;
+  width: 10% !important;
+}
+.div-id {
+  margin: 2% !important;
+}
+.onboard-button {
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+  margin: 2% !important;
+}
+.clear-button {
+  border-color: #0000cc !important;
+  color: #0000cc !important;
+}
+/* .form-paper{
+    padding: 1% !important;
+    width: 80% !important;
+} */

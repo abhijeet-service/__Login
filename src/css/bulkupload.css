@@ -1,0 +1,113 @@
+.bulkUploadRoot {
+  padding: 2%;
+  margin-top: 5%;
+}
+.bulkDropzoneArea {
+  /* border: 1px solid #f2f2f2 !important; */
+  height: 100% !important;
+  background-color: #f4f6f8 !important;
+  border-radius: 12px !important;
+  min-height: 190px !important;
+  width: 70% !important;
+}
+.bulkDropzoneAreaParagraph {
+  margin-top: 5% !important;
+  font-size: 16px !important;
+  padding: 1% !important;
+}
+
+.generate-button {
+  background-color: #670b4e !important;
+  color: #ffff !important;
+}
+.bulk-report-loader {
+  width: 30px !important;
+  height: 30px !important;
+  color: #670b4e !important;
+  margin: 1%;
+}
+.generate-button-div {
+  margin: 3% !important;
+}
+.summary-dialog {
+  width: 450px !important;
+}
+.summary-dialog-headings {
+  font-size: 15px !important;
+  margin: 1% !important;
+}
+.dialog-close-icon {
+  float: right !important;
+  position: absolute !important;
+  top: 1% !important;
+  right: 1% !important;
+}
+.info-icon {
+  color: #670b4e !important;
+}
+.generate-msg-typo {
+  color: #670b4e !important;
+  font-size: 16px !important;
+}
+.in-progress-typo {
+  color: #ffa500 !important;
+  font-weight: 600;
+}
+.success-typo {
+  color: #009900 !important;
+  font-weight: 600;
+}
+.failed-typo {
+  color: #e60000 !important;
+  font-weight: 600;
+}
+.report-success-typo {
+  margin: 2% !important;
+  color: #009900 !important;
+  font-size: 18px !important;
+}
+.report-link {
+  text-decoration: none !important;
+  word-wrap: break-word !important;
+  color: #0645ad !important;
+  font-size: 16px !important;
+}
+.report-link:hover {
+  text-decoration: underline !important;
+  word-wrap: break-word !important;
+  color: #0645ad !important;
+  cursor: pointer !important;
+}
+.reportModal {
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 2% !important;
+  padding-right: 2% !important;
+  padding-left: 2% !important;
+  outline: none !important;
+  margin-top: 4% !important;
+  overflow-y: auto !important;
+}
+.rd-root {
+  padding: 1%;
+  margin: 2%;
+}
+.without-outline-paper {
+  outline: none !important;
+}
+.modal-header-typo {
+  font-size: 20px !important;
+  text-align: center !important;
+  color: #ffff !important;
+}
+.success-typo {
+  color: #009900 !important;
+  display: inline !important;
+}
+.report-table-div {
+  margin-top: 1%;
+}
+.dialog-appbar {
+  position: relative !important;
+  background-color: #670b4e !important;
+}

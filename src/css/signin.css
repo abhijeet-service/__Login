@@ -1,0 +1,10 @@
+.companylogologin {
+  height: 55px !important;
+  margin-top: 4%;
+}
+/* @media screen and (max-width: 414px) and (min-width:320px){
+    .login-textfield{
+        margin-top: 2% !important;
+        width:70% !important
+    }
+} */

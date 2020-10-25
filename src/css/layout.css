@@ -1,0 +1,77 @@
+@import "global.css";
+
+/* Minimal Component CSS */
+.minimalRoot {
+  height: 100% !important;
+}
+.childrenContent {
+  height: 90% !important;
+}
+/* Topbar Component CSS */
+.topAppbar {
+  box-shadow: none !important;
+}
+.topToolbar {
+  min-height: 50px !important;
+  /* background-color: #670b4e !important; */
+}
+.mainTopToolbar {
+  min-height: 50px !important;
+  background-color: #670b4e !important;
+}
+.transparentToolbar {
+  min-height: 50px !important;
+  background-color: #f4f6f8 !important;
+}
+.flexGrow {
+  flex-grow: 1 !important;
+}
+.mainTopbarheading {
+  font-size: 18px !important;
+  color: #ffffff !important;
+}
+.topbarheading {
+  font-size: 18px !important;
+  /* color: #ffffff !important; */
+}
+.topbarButton {
+  text-transform: none !important;
+}
+.topbarMenu {
+  margin-top: 25px !important;
+}
+.notification-badge {
+  color: #ffffff !important;
+}
+.sidebar-back-arrow {
+  color: #ffffff !important;
+  font-size: 26px !important;
+  z-index: 99 !important;
+  float: right !important;
+}
+.sidebar-back-arrow:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+.arrowBackIcon {
+  color: #000000 !important;
+  font-size: 22px !important;
+  z-index: 99 !important;
+  float: left !important;
+}
+.arrowBackIcon:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pichainlogo {
+  height: 50px !important;
+  /* width:5% !important */
+}
+.topbarCompanyLogo {
+  height: 50px !important;
+  margin-top: 4px;
+}
+.footerRoot {
+  padding: 0% !important;
+}

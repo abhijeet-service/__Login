@@ -1,0 +1,95 @@
+.doc-job-root {
+  margin: 1%;
+}
+.doc-paper {
+  padding: 2% !important;
+  margin-top: 2% !important;
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+}
+.form-heading-typo {
+  text-align: center;
+  font-size: 16px !important;
+}
+.textfield-form-div {
+  margin: 2% !important;
+}
+.form-textfield {
+  margin-right: 4% !important;
+}
+.contact-no-textfield {
+  margin-right: 4% !important;
+  width: 35% !important;
+}
+.date-selector {
+  width: 35% !important;
+  margin-right: 4% !important;
+}
+.document-type-dropdown {
+  /* width: 51% !important; */
+  height: 36px;
+}
+.json-output-svg {
+  height: 60vh;
+  margin-left: 12%;
+}
+.submit-failed-message {
+  text-align: center !important;
+  font-size: 20px !important;
+  color: #e9041e !important;
+  margin-bottom: -2% !important;
+}
+.failed-svg {
+  height: 40vh;
+  margin-left: 4%;
+}
+.submittting-div {
+  margin-top: 20% !important;
+}
+.doc-job-loader {
+  /* width: 9% !important; */
+  height: 9% !important;
+}
+.submitting-msg {
+  color: #670b4e !important;
+  font-size: 16px !important;
+}
+.docJobUpload {
+  border: 1px solid #f2f2f2 !important;
+  height: 100% !important;
+  background-color: #f2f2f2 !important;
+  border-radius: 12px !important;
+  min-height: 120px !important;
+  width: 73% !important;
+}
+.docJobUploadParagraph {
+  margin-top: 1% !important;
+  font-size: 16px !important;
+  padding: 1% !important;
+}
+.submit-doc-button {
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+  margin: 2% !important;
+  width: 20%;
+}
+.custom-json-pretty {
+  /* overflow: hidden !important; */
+  /* word-wrap: normal !important; */
+  word-wrap: break-word !important;
+  /* display: inline !important; */
+  /* white-space: initial !important; */
+}
+.prettifier-div {
+  width: 100% !important;
+  height: 70vh !important;
+  overflow: scroll !important;
+  border: 1px solid black !important;
+  padding: 1% !important;
+}
+.empty-field-error {
+  color: #e9041e !important;
+  font-weight: 500;
+  text-align: center;
+  font-size: 16px !important;
+}

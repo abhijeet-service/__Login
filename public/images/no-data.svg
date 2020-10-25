@@ -1,0 +1,41 @@
+<svg width="820.1600000000002" height="780.81" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="07332201-7176-49c2-9908-6dc4a39c4716" x1="0.49999" y1="1" x2="0.49999" y2="0">
+   <stop offset="0" stop-color="gray" stop-opacity="0.25"/>
+   <stop offset="0.54" stop-color="gray" stop-opacity="0.12"/>
+   <stop offset="1" stop-color="gray" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="0ee1ab3f-7ba2-4205-9d4a-9606ad702253" x1="540.17" y1="180.2" x2="540.17" y2="130.75" gradientTransform="translate(-63.92 7.85)" xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716"/>
+  <linearGradient id="abca9755-bed1-4a97-b027-7f02ee3ffa09" x1="540.17" y1="140.86" x2="540.17" y2="82.43" gradientTransform="translate(-84.51 124.6) rotate(-12.11)" xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716"/>
+  <linearGradient id="2632d424-e666-4ee4-9508-a494957e14ab" x1="476.4" y1="710.53" x2="476.4" y2="127.12" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716"/>
+  <linearGradient id="97571ef7-1c83-4e06-b701-c2e47e77dca3" x1="476.94" y1="156.13" x2="476.94" y2="106.68" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716"/>
+  <linearGradient id="7d32e13e-a0c7-49c4-af0e-066a2f8cb76e" x1="666.86" y1="176.39" x2="666.86" y2="117.95" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716"/>
+ </defs>
+ <title>no data</title>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="822.16" height="782.81" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect x="46.28" y="205.27" width="437.02" height="603.82" transform="rotate(-12.109999656677246 -271.22000122070324,62.72000122070301) " fill="#e0e0e0" id="svg_1"/>
+  <g opacity="0.5" id="svg_2">
+   <rect x="53.67" y="215.48" width="422.25" height="583.41" transform="rotate(-12.109999656677246 -271.22000122070324,62.72000122070301) " fill="url(#07332201-7176-49c2-9908-6dc4a39c4716)" id="svg_3"/>
+  </g>
+  <rect x="59.01999" y="219.68" width="411.5" height="570.52" transform="rotate(-12.109999656677246 -270.79000854492193,62.58000183105472) " fill="#fafafa" id="svg_4"/>
+  <rect x="160.6" y="182.53" width="204.14" height="49.45" transform="rotate(-12.109999656677246 -213.58000183105474,43.93000030517572) " fill="url(#0ee1ab3f-7ba2-4205-9d4a-9606ad702253)" id="svg_5"/>
+  <path d="m271.01,32.31c-15.41,3.31 -25.16,18.78 -21.77,34.55s18.62,25.89 34,22.58s25.16,-18.78 21.77,-34.55s-18.59,-25.89 -34,-22.58zm9.67,45.1a16.86,16.86 0 1 1 12.56,-20a16.66,16.66 0 0 1 -12.56,20z" fill="url(#abca9755-bed1-4a97-b027-7f02ee3ffa09)" id="svg_6"/>
+  <rect x="162.72" y="180.27" width="199.84" height="47.27" transform="rotate(-12.109999656677246 -212.9400024414063,43.720001220703125) " fill="#670b4e" id="svg_7"/>
+  <path d="m271.01,32.31a27.93,27.93 0 1 0 33.17,21.45a27.93,27.93 0 0 0 -33.17,-21.45zm9.24,43.1a16.12,16.12 0 1 1 12.38,-19.14a16.12,16.12 0 0 1 -12.38,19.14z" fill="#670b4e" id="svg_8"/>
+  <rect x="257.89" y="116.91" width="437.02" height="603.82" fill="#e0e0e0" id="svg_9"/>
+  <g opacity="0.5" id="svg_10">
+   <rect x="265.28" y="127.12" width="422.25" height="583.41" fill="url(#2632d424-e666-4ee4-9508-a494957e14ab)" id="svg_11"/>
+  </g>
+  <rect x="270.65" y="131.42" width="411.5" height="570.52" fill="#fff" id="svg_12"/>
+  <rect x="374.87" y="106.68" width="204.14" height="49.45" fill="url(#97571ef7-1c83-4e06-b701-c2e47e77dca3)" id="svg_13"/>
+  <path d="m476.94,58.41c-15.76,0 -28.54,13.08 -28.54,29.22s12.78,29.22 28.54,29.22s28.54,-13.08 28.54,-29.22s-12.78,-29.22 -28.54,-29.22zm0,46.08a16.86,16.86 0 1 1 16.46,-16.86a16.66,16.66 0 0 1 -16.46,16.78l0,0.08z" fill="url(#7d32e13e-a0c7-49c4-af0e-066a2f8cb76e)" id="svg_14"/>
+  <rect x="377.02" y="104.56" width="199.84" height="47.27" fill="#670b4e" id="svg_15"/>
+  <path d="m476.94,58.41a27.93,27.93 0 1 0 27.93,27.93a27.93,27.93 0 0 0 -27.93,-27.93zm0,44.05a16.12,16.12 0 1 1 16.14,-16.16a16.12,16.12 0 0 1 -16.14,16.11l0,0.05z" fill="#670b4e" id="svg_16"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="331.00963" y="389.93875" id="svg_31" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.1453676223754883,0,0,1.5623902082443237,-49.4363484531641,-203.99826069362462) " stroke="null">NO DETAILS PRESENT</text>
+ </g>
+</svg>

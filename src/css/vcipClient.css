@@ -1,0 +1,37 @@
+.video-frame {
+  width: 50% !important;
+}
+.startRecordIcon {
+  height: 9vh;
+  width: 7%;
+}
+.stopRecordIcon {
+  height: 6vh;
+  width: 6%;
+}
+.screenshotloader {
+  width: 10% !important;
+  height: 10% !important;
+  color: #670b4e !important;
+  margin: 3% !important;
+}
+.callLoader {
+  width: 5% !important;
+  height: 5% !important;
+  color: #670b4e !important;
+}
+.call-button {
+  border: 1px solid #670b4e !important ;
+  color: #670b4e !important;
+}
+.accept-button {
+  border: 1px solid #670b4e !important ;
+  color: #670b4e !important;
+  margin-left: 1% !important;
+}
+
+.svg-video {
+  border: 1px solid black;
+  width: 50%;
+  height: 50%;
+}

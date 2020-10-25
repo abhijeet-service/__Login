@@ -1,0 +1,828 @@
+.DIYRoot {
+  padding: 1%;
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  margin: 3%;
+}
+.diy-nested-root {
+  padding: 1%;
+}
+.stepper {
+  background-color: transparent !important;
+  width: 100%;
+}
+.stepLabelTypo {
+  font-size: 18px !important;
+}
+.stepButtons {
+  margin-top: 4% !important;
+  /* display: flex !important; */
+}
+.stepBackButton {
+  justify-content: flex-start !important;
+}
+.stepNextButton {
+  justify-content: flex-end !important;
+}
+.back-button {
+  float: left !important;
+  width: 8%;
+}
+.disabledbasicFormButton {
+  float: right !important;
+  /* width: 8% !important; */
+}
+.basic-form-button {
+  float: right !important;
+  /* width: 8% !important; */
+  /* background-color: #670b4e !important;
+  color: #ffffff !important; */
+}
+.video-loader {
+  color: #670b4e !important;
+  margin: 12%;
+}
+.diy-modal-loader {
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 2% !important;
+}
+.diyCloseIcon {
+  position: absolute !important;
+  right: 0% !important;
+  top: 12% !important;
+}
+
+.modal-outline {
+  outline: 0 !important;
+}
+.diy-back-circularprogress {
+  width: 4% !important;
+  height: 4% !important;
+  color: #670b4e !important;
+  margin: 14% !important;
+}
+.back-standard-loader {
+  width: 4% !important;
+  height: 4% !important;
+  /* color: #670b4e !important; */
+  margin: 14% !important;
+}
+.diy-circularprogress {
+  width: 4% !important;
+  height: 4% !important;
+  color: #670b4e !important;
+  margin: 14% !important;
+}
+.final-submit-button {
+  float: right !important;
+  width: 12% !important;
+  /* background-color: #670b4e !important;
+  color: #ffffff !important; */
+}
+.diy-form-div {
+  padding: 1%;
+}
+.offline-form-textField {
+  margin: 2px !important;
+  width: 50% !important;
+  margin-right: 2% !important;
+}
+.small-outlined-textField {
+  margin: 2px !important;
+  min-width: 20% !important;
+  margin-right: 2% !important;
+}
+.outlined-large-textField {
+  margin: 2px !important;
+  width: 63% !important;
+  margin-right: 2% !important;
+}
+.outlined-larger-textField {
+  margin: 2px !important;
+  width: 96% !important;
+  margin-right: 2% !important;
+}
+.outlined-MNField {
+  margin: 2px !important;
+  width: 31% !important;
+  margin-right: 2% !important;
+}
+.dobfield {
+  margin: 5px !important;
+  margin-right: 2% !important;
+  width: 30% !important;
+}
+.inputPropsDOBField {
+  height: 0px !important;
+}
+.inputPropsMNField {
+  height: 2px !important;
+}
+.form-divider {
+  margin: 2%;
+}
+.note-uploading-typo {
+  font-size: 16px !important;
+  padding-bottom: 10px !important;
+  font-weight: 600 !important;
+}
+.dropzoneArea {
+  /* border: 1px solid #f2f2f2 !important; */
+  height: 100% !important;
+  background-color: #ffffff !important;
+  border-radius: 12px !important;
+  min-height: 190px !important;
+}
+.dropzoneAreaAadhaar,
+.dropzoneAreaDL {
+  /* border: 1px solid #f2f2f2 !important; */
+  height: 100% !important;
+  background-color: #ffffff !important;
+  border-radius: 12px !important;
+  min-height: 190px !important;
+}
+.dropzoneParagraphClassAadhaar,
+.dropzoneParagraphClassDL {
+  margin-top: 5% !important;
+  font-size: 16px !important;
+  padding: 1% !important;
+}
+/* inside dropzone text  */
+.dropzoneParagraphClass {
+  margin-top: 5% !important;
+  font-size: 16px !important;
+  padding: 1% !important;
+}
+.disabled-form-verify-button {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  width: 100px !important;
+  margin: 4% !important;
+  border-radius: 20px !important;
+  box-shadow: none !important;
+}
+.form-verify-button {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  width: 16% !important;
+  margin: 4% !important;
+  border-radius: 20px !important;
+  box-shadow: none !important;
+  /* border-radius: 20px !important; */
+  /* background-color: #009900 !important; */
+  /* color: #ffffff !important; */
+}
+.disabled-record-verify-button {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  width: 12% !important;
+  margin: 2% !important;
+  border-radius: 20px !important;
+  box-shadow: none !important;
+}
+.record-verify-button {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  width: 12% !important;
+  background-color: #009900 !important;
+  margin: 2% !important;
+  color: #ffffff !important;
+  border-radius: 20px !important;
+  box-shadow: none !important;
+}
+.steppers-content-heading {
+  /* padding: 1% !important; */
+  font-size: 16px !important;
+}
+.submission-message {
+  font-size: 20px !important;
+  color: #009900;
+}
+.submission-sub-message {
+  font-size: 16px !important;
+}
+.DIY-data-image {
+  width: 80%;
+  height: 60vh;
+}
+.file-preview-image {
+  width: 80% !important;
+  height: 40vh !important;
+  border: 1px solid black !important;
+}
+.diy-right-side-div {
+  margin: 16% !important;
+}
+.diy-right-side-failed-image {
+  height: 40px !important;
+}
+.diy-right-side-content-div {
+  padding: 8% !important;
+}
+.diy-right-side-loader {
+  width: 9% !important;
+  height: 9% !important;
+  /* color: #009900 !important; */
+  margin: 4% !important;
+}
+.diy-verify-loader {
+  width: 4% !important;
+  height: 4% !important;
+  color: #009900 !important;
+  margin: 1% !important;
+}
+.diy-right-side-message {
+  font-size: 18px !important;
+  /* color: #009900 !important; */
+}
+.diy-verifying--details-typo {
+  font-size: 18px !important;
+  color: #009900 !important;
+}
+.good-confidence-score-typo {
+  font-size: 20px !important;
+  color: #009900 !important;
+}
+.medium-confidence-score-typo {
+  font-size: 20px !important;
+  color: #ff9900 !important;
+}
+.bad-confidence-score-typo,
+.diy-right-side-failed-message {
+  font-size: 20px !important;
+  color: #ff0000 !important;
+}
+.fail-face-detection-typo {
+  font-size: 16px !important;
+  color: #ff0000 !important;
+}
+.good-face-detection-typo {
+  font-size: 16px !important;
+  color: #009900 !important;
+}
+.mismatch-typo {
+  color: #e60000 !important;
+}
+.selectBox {
+  width: 30% !important;
+  height: 38px;
+  margin-left: 1%;
+  margin-right: 2%;
+  margin-top: 0.2em;
+}
+.req-doc-card {
+  padding: 2%;
+  margin: 4%;
+}
+.document-type-selectbox {
+  height: 38px;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+.status-logo {
+  width: 10% !important;
+}
+.submit-logo {
+  width: 20%;
+}
+/* RECORD COMPONENT CSS STARTS HERE  */
+.recorder-div {
+  margin: 1%;
+}
+/* heQTiL is css className for react-video-recorder library */
+/* .heQTiL{
+    width: 70% !important;
+    height: 27em !important;
+} */
+.video-recorder__Wrapper-sc-7k20rv-0 {
+  width: 60% !important;
+  height: 28em !important;
+}
+.SVGInline-svg {
+  display: none !important;
+}
+.copy-id-button {
+  margin-left: 10px !important;
+  /* border-color: #670b4e !important;
+  color: #670b4e !important; */
+}
+.copy-jobid-button {
+  margin-left: 10px !important;
+  border-color: #670b4e !important;
+  color: #670b4e !important;
+  height: 4vh !important;
+}
+.copy-button {
+  margin-left: 10px !important;
+}
+.offlineTab {
+  margin: 4%;
+}
+.diy-tabs-label {
+  font-size: 14px !important;
+}
+.try-div {
+  display: inline;
+  margin-left: 2%;
+}
+
+.try-typo {
+  display: inline;
+  margin-left: 2%;
+}
+.refresh-iconbutton {
+  margin-top: -6% !important;
+}
+.proceed-offline {
+  margin: 10 !important;
+  margin-top: 10px !important;
+  width: 25%;
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+}
+.send-otp-button {
+  margin: 10 !important;
+  margin-top: 10px !important;
+  width: 25%;
+  margin-right: 10px !important;
+}
+.captcha-img {
+  width: 30% !important;
+}
+.editFormIcon {
+  /* color: #670b4e !important; */
+  float: right !important;
+}
+.stepperDrawerTextfield {
+  margin: 2px !important;
+  width: 90% !important;
+  /* margin-right: 2% !important; */
+}
+.edit-response-typo {
+  text-align: center !important;
+  font-size: 16px !important;
+  color: #009900 !important;
+}
+.save-changes-loader {
+  width: 9% !important;
+  height: 9% !important;
+  /* color: #009900 !important; */
+  margin: 9% !important;
+}
+.save-icon {
+  height: 40px !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+.saveChangesButton {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  /* width:50% !important; */
+  /* background-color: #009900 !important; */
+  margin: 9% !important;
+  /* color: #ffffff !important; */
+}
+.saveChangesdisabled {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  /* width:50% !important; */
+  margin: 9% !important;
+}
+.table-typo {
+  font-size: 14px !important;
+}
+.VCIPRoot {
+  display: flex;
+  overflow-y: hidden !important;
+  overflow-x: hidden !important;
+  margin: 2%;
+}
+.vcip-meeting-title {
+  font-size: 20px !important;
+  margin: 1% !important;
+}
+.video-call-image-capture {
+  /* margin-top: 2% !important; */
+  /* display: inline-block !important; */
+  width: 100% !important;
+  height: 200px !important;
+}
+.schedule-title {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  margin-bottom: 2% !important;
+}
+.button-schedule-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1%;
+}
+.scheduleFormClose {
+  position: absolute !important;
+  right: 0% !important;
+  top: 1% !important;
+  color: #670b4e !important;
+}
+.schedule-back-button {
+  border-color: #670b4e !important;
+  color: #670b4e !important;
+}
+.schedule-button,
+.schedule-next-button {
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+}
+.time-title-button {
+  color: #670b4e !important;
+  font-size: 12px !important;
+  background-color: #670b4e1a !important;
+  border-radius: 20px !important;
+  text-transform: none !important;
+}
+.schedule-time-div {
+  margin-top: 2% !important;
+  overflow-x: auto !important;
+  display: flex !important;
+  padding-bottom: 2% !important;
+}
+.schedule-time-button {
+  color: #670b4e !important;
+  border-color: #670b4e !important;
+  margin-right: 2% !important;
+  margin-top: 2% !important;
+}
+.selected-schedule-time-button {
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+  margin-right: 2% !important;
+  margin-top: 2% !important;
+}
+.close-schedule-dialog-button {
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+}
+.schedule-card-div {
+  margin-top: 20% !important;
+}
+.navigateNextIcon {
+  color: #ffffff !important;
+}
+.schedule-card,
+.schedule-card-final-detail {
+  background-color: #f2f2f2 !important;
+  border-radius: 12px !important;
+}
+.schedule-card-inner {
+  padding: 6% !important;
+}
+.small-schedule-card {
+  margin-top: 2% !important;
+  width: 30% !important;
+  background-color: #f2f2f2 !important;
+  border-radius: 12px !important;
+}
+.scheduled-meeting-details-card {
+  margin-top: 2% !important;
+  background-color: #f2f2f2 !important;
+  border-radius: 12px !important;
+}
+.resend-mail-typo {
+  color: #670b4e !important;
+  font-weight: 600 !important;
+}
+.confirm-datetime-div {
+  padding: 2% !important;
+}
+.schedule-card-date-selected,
+.schedule-card-time-selected {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+.schedule-card-date-title,
+.schedule-card-time-title,
+.schedule-card-info-title1 {
+  color: #737373 !important;
+  font-size: 12px !important;
+}
+.schedule-card-confirm-msg-helper {
+  color: #737373 !important;
+  font-size: 14px !important;
+}
+.schedule-card-info-title2 {
+  font-size: 14px !important;
+  color: #000000 !important;
+  margin-top: 2% !important;
+}
+.schedule-card-scheduled-message {
+  font-size: 19px !important;
+  font-weight: 600 !important;
+  color: #000000 !important;
+}
+.scheduled-checkCircle {
+  font-size: 50px !important;
+  color: #670b4e !important;
+}
+.schedule-card-formControl {
+  margin: 1% !important;
+}
+.time-typo {
+  color: #670b4e !important;
+  font-size: 14px !important;
+}
+.scheduleIcon {
+  color: #670b4e !important;
+}
+.call-schedule-image {
+  display: inline-block !important;
+  width: 100% !important;
+  height: 200px !important;
+}
+.crossed-line {
+  text-decoration: line-through !important;
+}
+.uncrossed-line {
+  text-decoration: none !important;
+}
+.instruction-card {
+  padding: 2% !important;
+}
+.client-desc-card {
+  /* margin: 4%; */
+  margin-top: 2%;
+  margin-right: 4%;
+}
+.client-details-div {
+  padding: 2%;
+}
+.client-details-typo {
+  font-size: 16px !important;
+}
+.checkboxformControl {
+  margin: 3px !important;
+}
+.started-background {
+  background-color: #00b300 !important;
+}
+.checkbox {
+  color: #670b4e !important;
+}
+.nested-agent-left-div {
+  flex-grow: 1;
+  flex-basis: 70%;
+}
+.agent-typo {
+  font-size: 16px !important;
+  margin: 1% !important;
+}
+.calling-agent-typo {
+  font-size: 16px !important;
+  color: #670b4e !important;
+  margin: 1% !important;
+}
+
+.mic-icon {
+  color: #670b4e !important;
+}
+.agent-tableContainer {
+  width: 50% !important;
+  margin: 2% !important;
+}
+.accept-call-table {
+  background-color: #00b300 !important;
+  color: #ffffff !important;
+  border-radius: 40px !important;
+  height: 5vh;
+  font-size: 12px !important;
+}
+.in-call-table {
+  background-color: #ffa500 !important;
+  color: #ffffff !important;
+  border-radius: 40px !important;
+  height: 5vh;
+  font-size: 12px !important;
+}
+.agent-tableHead {
+  background-color: #e6e6e6 !important;
+}
+.nested-agent-left-div:after {
+  content: "";
+  flex: auto;
+}
+.nested-agent-right-div {
+  flex-grow: 1;
+  flex-basis: 30%;
+}
+.nested-agent-right-div:after {
+  content: "";
+  flex: auto;
+}
+.instructions-typo {
+  text-align: center;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  margin: 1% !important;
+}
+.instruction-note {
+  margin: 1% !important;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+}
+.before-start-typo {
+  font-size: 15px !important;
+  margin: 1% !important;
+}
+.job-id-textField {
+  margin-top: 3% !important;
+  /* width: 51% !important; */
+}
+.start-button {
+  margin: 4% !important;
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+}
+.start-button-disabled {
+  margin: 4% !important;
+}
+.outlined-retry-button {
+  margin: 2% !important;
+  border-color: #e60000 !important;
+  color: #e60000 !important;
+}
+.outlined-approve-button {
+  margin: 2% !important;
+  border-color: #009900 !important;
+  color: #009900 !important;
+}
+.proceed-customer {
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+  margin: 2% !important;
+}
+.fab-button {
+  margin-right: 2% !important;
+  background-color: #670b4e !important;
+}
+.call-button-customer {
+  color: #ffffff !important;
+}
+.end-call-button {
+  color: #ffffff !important;
+}
+.fab-end-button {
+  margin-right: 2% !important;
+  background-color: #e60000 !important;
+}
+.proceed-customer-disabled {
+  color: #ffffff !important;
+  margin: 2% !important;
+}
+.record-verifying-details-typo {
+  color: #009900 !important;
+  font-size: 18px !important;
+}
+.location-permit-status {
+  color: #e60000 !important;
+  font-size: 18px !important;
+  margin-bottom: 1% !important;
+  font-weight: 600 !important;
+}
+.sidelist-drawer-div {
+  width: 300px !important;
+}
+/* RECORD COMPONENT CSS ENDS HERE */
+
+@media screen and (max-width: 424px) and (min-width: 320px) {
+  .DIYRoot {
+    padding: 2%;
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    margin: 3%;
+  }
+
+  .stepper {
+    width: 100%;
+  }
+  .steppers-content-heading {
+    padding-bottom: 4% !important;
+    font-size: 16px !important;
+  }
+  .diy-right-side-content-div {
+    padding-top: 1% !important;
+  }
+  .doc-type-label {
+    margin-right: 2% !important;
+  }
+  .dropzoneArea {
+    /* border: 1px solid #f2f2f2 !important; */
+    /* height: 40% !important; */
+    min-height: 20% !important;
+    width: 100% !important;
+    padding-bottom: 5% !important;
+    background-color: #ffffff !important;
+    border-radius: 12px !important;
+  }
+
+  .dropzoneAreaAadhaar {
+    /* border: 1px solid #f2f2f2 !important; */
+    height: 100% !important;
+    background-color: #ffffff !important;
+    border-radius: 12px !important;
+    min-height: 146px !important;
+  }
+  .dropzoneParagraphClassAadhaar {
+    margin-top: 2% !important;
+    font-size: 16px !important;
+    padding: 0% !important;
+  }
+  /* inside dropzone text  */
+  .dropzoneParagraphClass {
+    margin-top: 4% !important;
+    margin-bottom: 2% !important;
+    font-size: 16px !important;
+    padding: 1% !important;
+  }
+  .disabled-form-verify-button {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    /* width: 100px !important; */
+    border-radius: 20px !important;
+    margin-top: 6% !important;
+    width: 30% !important;
+    box-shadow: none !important;
+  }
+  .form-verify-button {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    width: 30% !important;
+    border-radius: 20px !important;
+    box-shadow: none !important;
+    margin-top: 6% !important;
+    /* background-color: #009900 !important; */
+    /* box-shadow: none !important; */
+    /* color: #ffffff !important; */
+  }
+  .record-verifying-details-typo {
+    color: #009900 !important;
+    font-size: 18px !important;
+  }
+  .selectBox {
+    width: 100% !important;
+    height: 38px;
+    margin-left: 1%;
+    margin-right: 2%;
+    margin-top: 0.2em;
+    margin: 4%;
+  }
+  .document-type-selectbox {
+    width: 50% !important;
+    height: 38px;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+  }
+  .outlined-large-textField,
+  .small-outlined-textField,
+  .dobfield,
+  .outlined-MNField,
+  .outlined-larger-textField {
+    margin: 4% !important;
+    width: 100% !important;
+    margin-right: 2% !important;
+  }
+  .offline-form-textField,
+  .captcha-img {
+    margin: 4% !important;
+    width: 100% !important;
+    margin-right: 2% !important;
+  }
+  .disabledbasicFormButton {
+    float: right !important;
+    /* width: 42% !important; */
+  }
+  .basic-form-button {
+    float: right !important;
+    /* width: 42% !important; */
+    /* background-color: #670b4e !important;
+    color: #ffffff !important; */
+  }
+  .DIY-data-image {
+    width: 100%;
+    height: 50vh;
+  }
+  .status-logo {
+    width: 20% !important;
+  }
+  .send-otp-button,
+  .proceed-offline {
+    margin: 10 !important;
+    margin-top: 10px !important;
+    width: 100%;
+    margin-right: 10px !important;
+    margin-bottom: 2px !important;
+  }
+}

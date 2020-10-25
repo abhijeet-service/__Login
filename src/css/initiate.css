@@ -1,0 +1,171 @@
+/* Small Devices, Tablets */
+@media only screen and (min-width: 768px) {
+  .initiateRoot {
+    height: 100% !important;
+  }
+  .initiate-form {
+    padding: 8% !important;
+  }
+  .initiate-title {
+    margin-top: 2% !important;
+  }
+  .initiate-invalidTitle {
+    margin-top: 1% !important;
+    color: #e9041e !important;
+    font-weight: 500;
+    text-align: center;
+  }
+  .invalidIDCheck {
+    margin-top: 1% !important;
+    color: #e9041e !important;
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: 14px !important;
+  }
+  .document-image-title {
+    font-size: 16px !important;
+    margin: 2% !important;
+  }
+  .initiate-textField {
+    margin-top: 2% !important;
+    width: 51% !important;
+  }
+  .initiate-proceedButton {
+    margin: 2% !important;
+    margin-top: 4% !important;
+    /* width:50% !important; */
+    font-size: 14px !important;
+    background-color: #670b4e !important;
+    color: #ffffff !important;
+  }
+  .capture-button,
+  .start-new-call {
+    font-size: 14px !important;
+    background-color: #670b4e !important;
+    color: #ffffff !important;
+    margin: 2% !important;
+  }
+  .entity-type-selectbox {
+    width: 51% !important;
+    height: 38px;
+    margin-top: 4%;
+  }
+  .entity-type-selectbox2 {
+    width: 51% !important;
+    height: 38px;
+    margin-top: 3%;
+  }
+  .cropIcon {
+    margin-left: 4% !important;
+  }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+  .initiateRoot {
+    height: 100% !important;
+  }
+  .initiate-form {
+    padding: 8% !important;
+  }
+  .initiate-title {
+    margin-top: 2% !important;
+  }
+  .initiate-invalidTitle {
+    margin-top: 1% !important;
+    color: #e9041e !important;
+    font-weight: 500;
+    text-align: center;
+  }
+  .initiate-textField {
+    margin-top: 2% !important;
+    width: 51% !important;
+  }
+  .capture-button {
+    font-size: 14px !important;
+    background-color: #670b4e !important;
+    color: #ffffff !important;
+    margin: 2% !important;
+  }
+  .connect-customer-button {
+    font-size: 14px !important;
+    background-color: #670b4e !important;
+    color: #ffffff !important;
+  }
+  .initiate-proceedButton {
+    margin: 2% !important;
+    margin-top: 4% !important;
+    /* width:35% !important; */
+    font-size: 14px !important;
+    background-color: #670b4e !important;
+    color: #ffffff !important;
+  }
+  .entity-type-selectbox {
+    width: 51% !important;
+    height: 38px;
+    margin-top: 4%;
+  }
+  .entity-type-selectbox2 {
+    width: 51% !important;
+    height: 38px;
+    margin-top: 3%;
+  }
+  .cropIcon {
+    margin-left: 4% !important;
+  }
+}
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+  .initiateRoot {
+    height: 100% !important;
+  }
+  .initiate-form {
+    padding: 8% !important;
+  }
+  .initiate-title {
+    margin-top: 2% !important;
+    font-size: 22px !important;
+  }
+  .initiate-invalidTitle {
+    margin-top: 1% !important;
+    color: #e9041e !important;
+    font-weight: 500;
+    text-align: center;
+  }
+  .initiate-textField {
+    margin-top: 2% !important;
+    width: 51% !important;
+  }
+  .connect-customer-button {
+    font-size: 14px !important;
+    background-color: #670b4e !important;
+    color: #ffffff !important;
+  }
+  .capture-button {
+    font-size: 14px !important;
+    background-color: #670b4e !important;
+    color: #ffffff !important;
+    margin: 2% !important;
+  }
+  .initiate-proceedButton {
+    margin: 2% !important;
+    margin-top: 4% !important;
+    /* width:28% !important; */
+    font-size: 14px !important;
+    background-color: #670b4e !important;
+    color: #ffffff !important;
+  }
+  .entity-type-selectbox {
+    width: 51% !important;
+    height: 38px;
+    margin-top: 4%;
+  }
+  .entity-type-selectbox2 {
+    width: 51% !important;
+    height: 38px;
+    margin-top: 3%;
+  }
+  .cropIcon {
+    margin-left: 4% !important;
+  }
+}

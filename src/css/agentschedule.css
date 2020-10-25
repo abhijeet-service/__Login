@@ -1,0 +1,113 @@
+.agentScheduleRoot {
+  padding: 2%;
+}
+.scheduleTableDiv {
+  padding: 1%;
+}
+.activeScheduleTab {
+  color: #670b4e !important;
+  font-weight: 600 !important;
+}
+.inactiveScheduleTab {
+  color: #666666 !important;
+}
+.schedule-appbar {
+  background-color: #f2f2f2 !important;
+  box-shadow: none !important;
+  height: 70px !important;
+}
+.schedule-appbar-title {
+  flex-grow: 1 !important;
+  color: #000000 !important;
+  font-weight: 600 !important;
+}
+.date-range-button {
+  border-color: #670b4e !important;
+  color: #670b4e !important;
+  margin-bottom: 1% !important;
+}
+.daterangeIcon {
+  color: #670b4e !important;
+}
+.schedule-exp-div {
+  margin-right: 2%;
+}
+.flex-schedule-icon-column {
+  flex-basis: 30% !important;
+}
+.flex-schedule-time-column {
+  flex-basis: 80% !important;
+}
+.flex-schedule-date-column {
+  flex-basis: 80% !important;
+}
+.flex-schedule-name-column {
+  flex-basis: 80% !important;
+}
+.flex-schedule-event-column {
+  flex-basis: 100% !important;
+}
+.agent-schedule-detail-exp-card {
+  background-color: #f2f2f2 !important;
+}
+.href-button,
+.href-button:hover {
+  color: #ffffff;
+}
+.agent-schedule-detail-exp-card-div {
+  padding: 2% !important;
+}
+.agent-schedule-detail-exp-card-typo {
+  font-size: 14px !important;
+}
+.rescheduling-loader {
+  color: #670b4e !important;
+  width: 4% !important;
+  height: 4% !important;
+}
+.scheduling-tab-loader {
+  width: 4% !important;
+  height: 4% !important;
+  color: #670b4e !important;
+  margin: 4% !important;
+}
+.bold-font-typo {
+  font-weight: 600 !important;
+}
+.jobid-bold-font-link {
+  text-decoration: none !important;
+  word-wrap: break-word !important;
+  color: #0645ad !important;
+}
+.jobid-bold-font-link:hover {
+  text-decoration: underline !important;
+  word-wrap: break-word !important;
+  color: #0645ad !important;
+  cursor: pointer !important;
+}
+.video-link-join-button {
+  background-color: #670b4e !important;
+  /* color: #ffffff !important; */
+  margin: 1% !important;
+  border-radius: 20px !important;
+  height: 5vh !important;
+  box-shadow: none !important;
+}
+.video-link-expired-button {
+  background-color: #cc0000 !important;
+  color: #ffffff !important;
+  margin: 1% !important;
+  border-radius: 20px !important;
+  height: 5vh !important;
+  box-shadow: none !important;
+}
+.date-range-select-button {
+  background-color: #670b4e !important;
+  color: #ffffff !important;
+}
+.date-range-cancel-button {
+  color: #cc0000 !important;
+}
+.date-range-reset-button {
+  color: #0645ad !important;
+}

@@ -1,0 +1,37 @@
+<svg width="820.16" height="780.81" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="07332201-7176-49c2-9908-6dc4a39c4716" x1="0.499988" y1="1" x2="0.499988" y2="0">
+   <stop offset="0" stop-color="gray" stop-opacity="0.25"/>
+   <stop offset="0.54" stop-color="gray" stop-opacity="0.12"/>
+   <stop offset="1" stop-color="gray" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="2632d424-e666-4ee4-9508-a494957e14ab" x1="476.4" y1="710.53" x2="476.4" y2="127.12" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716"/>
+  <linearGradient id="97571ef7-1c83-4e06-b701-c2e47e77dca3" x1="476.94" y1="156.13" x2="476.94" y2="106.68" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716"/>
+  <linearGradient id="7d32e13e-a0c7-49c4-af0e-066a2f8cb76e" x1="666.86" y1="176.39" x2="666.86" y2="117.95" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#07332201-7176-49c2-9908-6dc4a39c4716"/>
+ </defs>
+ <title>no data</title>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="822.16" height="782.81" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect x="200.281933" y="69.084435" width="437.02" height="603.82" fill="#e0e0e0" id="svg_9"/>
+  <g opacity="0.5" id="svg_10">
+   <rect x="207.671933" y="79.294435" width="422.25" height="583.41" fill="url(#2632d424-e666-4ee4-9508-a494957e14ab)" id="svg_11"/>
+  </g>
+  <rect x="213.041933" y="83.594435" width="411.5" height="570.52" fill="#fff" id="svg_12"/>
+  <rect x="317.261933" y="58.854435" width="204.14" height="49.45" fill="url(#97571ef7-1c83-4e06-b701-c2e47e77dca3)" id="svg_13"/>
+  <path d="m419.331935,10.584435c-15.76,0 -28.54,13.08 -28.54,29.22s12.78,29.22 28.54,29.22s28.54,-13.08 28.54,-29.22s-12.78,-29.22 -28.54,-29.22zm0,46.08a16.86,16.86 0 1 1 16.46,-16.86a16.66,16.66 0 0 1 -16.46,16.78l0,0.08z" fill="url(#7d32e13e-a0c7-49c4-af0e-066a2f8cb76e)" id="svg_14"/>
+  <rect x="319.411933" y="56.734435" width="199.84" height="47.27" fill="#670b4e" id="svg_15"/>
+  <path d="m419.331935,10.584435a27.93,27.93 0 1 0 27.93,27.93a27.93,27.93 0 0 0 -27.93,-27.93zm0,44.05a16.12,16.12 0 1 1 16.14,-16.16a16.12,16.12 0 0 1 -16.14,16.11l0,0.05z" fill="#670b4e" id="svg_16"/>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="269.632947" y="231.829787" id="svg_31" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Document needed (Any one) :</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="317.254967" y="269.435706" id="svg_32" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">- Aadhaar Card</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="317.254967" y="308.565717" id="svg_33" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">- Driving Licence</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="311.451648" y="359.447141" id="svg_35" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Format supported :</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="380.297758" y="391.17351" id="svg_36" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">.jpg</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="380.297758" y="488.998529" id="svg_37" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">.pdf</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="379.210814" y="454.216304" id="svg_38" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">.png</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="375.94998" y="425.955741" id="svg_39" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">.jpeg</text>
+ </g>
+</svg>

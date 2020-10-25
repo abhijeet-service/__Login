@@ -1,0 +1,44 @@
+@import "global.css";
+
+.not-found-root {
+  padding: 2% !important;
+  overflow: hidden !important;
+}
+.not-found-content {
+  /* padding-top: 2% !important; */
+  text-align: center !important;
+}
+.not-found-image {
+  margin-top: 4% !important;
+  display: inline-block !important;
+  width: 100% !important;
+  height: 300px !important;
+}
+.submitted-root {
+  height: 90% !important;
+}
+.link-div {
+  margin-top: 1% !important;
+  margin-left: 2.5% !important;
+}
+.mail-success-typo {
+  font-size: 26px !important;
+  color: #009900 !important;
+}
+.mail-failed-typo {
+  font-size: 26px !important;
+  color: #e60000 !important;
+}
+.job-details-div {
+  margin-top: 1% !important;
+}
+.job_typo {
+  font-size: 16px !important;
+  display: inline !important;
+}
+.success-page-content {
+  margin-top: 3% !important;
+  display: inline-block !important;
+  width: 100% !important;
+  height: 300px !important;
+}

@@ -1,0 +1,16 @@
+* {
+  font-family: Source Sans Pro !important;
+  /* font-size: 14px !important; */
+}
+/* remove Fusionchart watermark */
+svg > g[class^="raphael-group-"] > text {
+  display: none !important;
+}
+/* Hide vertical scrollbar but still scrollable */
+::-webkit-scrollbar {
+  width: 0px !important;
+  background: transparent !important;
+}
+body ::-webkit-scrollbar-track {
+  background: transparent !important;
+}

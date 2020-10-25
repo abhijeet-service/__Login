@@ -1,0 +1,8 @@
+version: "3.4"
+
+services:
+  web:
+    build: .
+    image: kyc:v2.1.1
+    ports:
+      - "3002:3000"
